@@ -3,8 +3,19 @@
 
 Persented ourself in the Pre Smart India hackathon 2022. Had a great fun coding.
 
-This catbot was built without the use of any libraries to perform ML operations. we used simple building blocks of any languaage and added logic to it to 
-make it look and feel simple but attractive.
+This chatbot was built without the use of any libraries to perform ML operations. we used simple building blocks of any language and added logic to it to 
+make it look and feel simple but attractive. Processing it to any webpage or app is piece of cake as user can use this logic and create simple and famulous end product
+This event took place on 14 and 15 of march 2022.
+team mate info:
+Reez Tuscano
+Shaun Dritto
+Samuel Vaz (Team leader
+seniya Tuscano
+Quincy Gonsalvis
+Ross Lobo
+
+Hackathon was 36hrs long and we completed it successfully!!!!
+
 
 
 
@@ -62,6 +73,10 @@ Logic behind the code on paper and hackathon meeting that we attended online lol
 ![Screen Shot 03-16-22 at 01 14 PM](https://user-images.githubusercontent.com/100014146/158542284-1d8ed58c-d84a-45d4-84a2-d605debf6a82.PNG)
 
 
+![WhatsApp Image 2022-03-16 at 1 55 02 PM](https://user-images.githubusercontent.com/100014146/158547740-29a73c11-f3da-4a35-ab31-1685ef2eabe3.jpeg)
+
+
+![WhatsApp Image 2022-03-16 at 1 55 01 PM](https://user-images.githubusercontent.com/100014146/158547745-c6ca6064-1633-4d4f-8484-695303d00eaa.jpeg)
 
 
 ![Screen Shot 03-16-22 at 01 42 PM](https://user-images.githubusercontent.com/100014146/158545927-9dbf6204-af73-4485-bbf3-0e6470869893.PNG)
