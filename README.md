@@ -45,7 +45,7 @@ But the code remains the same aand can also be integrated to large amount of dat
 Also we didn't use any database to store and retain value from, but insteed we made a local object as a dictionary in javascript and stored our data in question answer and message format.
 
 
-![Screen Shot 03-15-22 at 11 12 AM](https://user-images.githubusercontent.com/100014146/158542262-8f7ae6bc-fd00-40ed-bfe6-2e4980118d11.PNG)
+
 
 
 
@@ -83,7 +83,10 @@ Logic behind the code on paper and hackathon meeting that we attended online lol
 ![Screen Shot 03-16-22 at 01 14 PM 003](https://user-images.githubusercontent.com/100014146/158542278-c47924d0-cf82-462e-90e2-b23b79c69b4c.PNG)
 
 
+This is our basic layout to test our logic and later we tried to build it to a better and functional prototype....:):):)
+
 ![Screen Shot 03-14-22 at 04 53 PM](https://user-images.githubusercontent.com/100014146/158542291-bd691402-ae99-4752-a713-2541b25a564d.PNG)
+![Screen Shot 03-15-22 at 11 12 AM](https://user-images.githubusercontent.com/100014146/158542262-8f7ae6bc-fd00-40ed-bfe6-2e4980118d11.PNG)
 
 
 ![Screen Shot 03-16-22 at 01 14 PM](https://user-images.githubusercontent.com/100014146/158542284-1d8ed58c-d84a-45d4-84a2-d605debf6a82.PNG)
