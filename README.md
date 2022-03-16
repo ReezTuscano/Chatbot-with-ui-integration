@@ -14,10 +14,15 @@ This event took place on 14 and 15 of march 2022.
 team mate info:
 <br>
 Reez Tuscano
+<br>
 Shaun Dritto
-Samuel Vaz (Team leader
+<br>
+Samuel Vaz (Team leader)
+<br>
 seniya Tuscano
+<br>
 Quincy Gonsalvis
+<br>
 Ross Lobo
 
 
