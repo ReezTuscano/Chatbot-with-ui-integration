@@ -3,7 +3,8 @@
 
 Persented ourself in the Pre Smart India hackathon 2022. Had a great fun coding.
 
-
+This catbot was built without the use of any libraries to perform ML operations. we used simple building blocks of any languaage and added logic to it to 
+make it look and feel simple but attractive.
 
 
 
