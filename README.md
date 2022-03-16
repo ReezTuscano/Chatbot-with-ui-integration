@@ -7,12 +7,12 @@ Persented ourself in the Pre Smart India hackathon 2022. Had a great fun coding.
 
 
 
-
-![Screen Shot 03-16-22 at 01 14 PM 001 (2)](https://user-images.githubusercontent.com/100014146/158542267-03ea8b78-bab1-4d53-99bd-931315c38bd2.PNG)
-
+![Screen Shot 03-16-22 at 01 41 PM 001 (2)](https://user-images.githubusercontent.com/100014146/158545862-610404c9-5648-4ba4-91a1-47ddf099a1e0.PNG)
 
 
-![Screen Shot 03-16-22 at 01 14 PM 002](https://user-images.githubusercontent.com/100014146/158542271-7ad73279-6628-4195-aa7e-6d67f4939036.PNG)
+
+![Screen Shot 03-16-22 at 01 41 PM 002 (2)](https://user-images.githubusercontent.com/100014146/158545872-0763ed6d-3421-428a-9563-2017ef085a9f.PNG)
+
 
 
 
@@ -62,11 +62,11 @@ Logic behind the code on paper and hackathon meeting that we attended online lol
 
 
 
-![Screen Shot 03-16-22 at 01 15 PM (2)](https://user-images.githubusercontent.com/100014146/158542287-af77f614-4411-4744-b009-474fc6b3b433.PNG)
+
+![Screen Shot 03-16-22 at 01 42 PM](https://user-images.githubusercontent.com/100014146/158545927-9dbf6204-af73-4485-bbf3-0e6470869893.PNG)
 
 
-
-![Screen Shot 03-16-22 at 01 15 PM](https://user-images.githubusercontent.com/100014146/158542288-de3c083d-09ea-482d-b2a8-11be0a1682a3.PNG)
+![Screen Shot 03-16-22 at 01 41 PM 003](https://user-images.githubusercontent.com/100014146/158545934-8b34a8bd-bed7-4489-abf1-300dd7014bb4.PNG)
 
 
 
