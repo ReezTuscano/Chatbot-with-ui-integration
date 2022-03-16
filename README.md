@@ -6,13 +6,20 @@ Persented ourself in the Pre Smart India hackathon 2022. Had a great fun coding.
 This chatbot was built without the use of any libraries to perform ML operations. we used simple building blocks of any language and added logic to it to 
 make it look and feel simple but attractive. Processing it to any webpage or app is piece of cake as user can use this logic and create simple and famulous end product
 This event took place on 14 and 15 of march 2022.
+
+
+
+
+
 team mate info:
+<br>
 Reez Tuscano
 Shaun Dritto
 Samuel Vaz (Team leader
 seniya Tuscano
 Quincy Gonsalvis
 Ross Lobo
+
 
 Hackathon was 36hrs long and we completed it successfully!!!!
 
