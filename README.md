@@ -38,7 +38,11 @@ Hackathon was 36hrs long and we completed it successfully!!!!
 ![Screen Shot 03-16-22 at 01 41 PM 002 (2)](https://user-images.githubusercontent.com/100014146/158545872-0763ed6d-3421-428a-9563-2017ef085a9f.PNG)
 
 
-
+Due to time constraint and lack of data to take in as imput, we have only two levels on which chatbot is built upon.
+<br> 
+But the code remains the same aand can also be integrated to large amount of data set.
+<br>
+Also we didn't use any database to store and retain value from, but insteed we made a local object as a dictionary in javascript and stored our data in question answer and message format.
 
 
 ![Screen Shot 03-15-22 at 11 12 AM](https://user-images.githubusercontent.com/100014146/158542262-8f7ae6bc-fd00-40ed-bfe6-2e4980118d11.PNG)
